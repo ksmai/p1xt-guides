@@ -4,21 +4,21 @@ If you have any questions, be sure to check the [FAQ](./faq.md). In fact, before
 It has a pleathora of hints, tips and answers to help you ensure you get the most out of this guide.
 
 ## Tier 1 - getting started
-- [ ]  Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)    
-- [ ]  Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)  
-- [ ]  Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)     
-- [ ]  Course: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)    
+- [x]  Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)    
+- [x]  Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)  
+- [x]  Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)     
+- [x]  Course: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)    
 - [ ]  Project: Clone [this](https://creativemarket.com/ikonome/686585-Material-Resume-Blue/screenshots/#screenshot2) online resume template 
-- [ ]  Course: [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
-- [ ]  Book: [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)   
-- [ ]  Book: [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)   
-- [ ]  Book: [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)     
-- [ ]  Course: [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)  
-- [ ]  Project: Portfolio from the frontend section of FCC  
+- [x]  Course: [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
+- [x]  Book: [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)   
+- [x]  Book: [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)   
+- [x]  Book: [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)     
+- [x]  Course: [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)  
+- [x]  Project: Portfolio from the frontend section of FCC  
 - [ ]  Article: Read [Project Specification Documents](http://www.pixelearth.net/pages/project-specification) and get in the habit of including every bit of information it details that makes sense for a project in the README.md or other supporting documentation for your projects 
 - [ ]  Course: [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x) 
 - [ ]  Book: [Setting Up ES6](https://leanpub.com/setting-up-es6/read)    
-- [ ]  Book: [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix)  
+- [x]  Book: [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix)  
 - [ ]  Course: [Getting Sassy with Sass](http://www.sassshop.com/#/)
 - [ ]  Project: Build an online Towers of Hanoi solver that accepts a tower height between 5 and 10,  and then displays a graphical (animated) solution, iteratively moving each piece until the puzzle is solved
 
@@ -26,19 +26,19 @@ It has a pleathora of hints, tips and answers to help you ensure you get the mos
 - [ ]  Course: [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)    
 - [ ]  Course: [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)    
 - [ ]  Course: [Software Construction: Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x)
-- [ ]  Book:  [DOM Enlightenment](http://domenlightenment.com/)    
+- [x]  Book:  [DOM Enlightenment](http://domenlightenment.com/)    
 - [ ]  Project:  Simon Game from the frontend section of FCC    
-- [ ]  Project:  Complete all Classic Puzzles - Easy on [CodinGame](https://www.codingame.com/) in JavaScript        
-- [ ]  Course:  [Introduction to MongoDB using the MEAN Stack](https://www.edx.org/course/introduction-mongodb-using-mean-stack-mongodbx-m101x-0) on edX    
-- [ ]  The FCC Backend Certification - all projects, ignore the tutorials and just read the official docs if you want. 
+- [x]  Project:  Complete all Classic Puzzles - Easy on [CodinGame](https://www.codingame.com/) in JavaScript        
+- [x]  Course:  [Introduction to MongoDB using the MEAN Stack](https://www.edx.org/course/introduction-mongodb-using-mean-stack-mongodbx-m101x-0) on edX    
+- [x]  The FCC Backend Certification - all projects, ignore the tutorials and just read the official docs if you want. 
 - [ ]  Course: [Calculus One](https://www.coursera.org/learn/calculus1)    
-- [ ]  Book:  [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- [x]  Book:  [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [ ]  Project: Clone [this](https://blackrockdigital.github.io/startbootstrap-creative/) landing page  
 - [ ]  Course: [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
 - [ ]  Article: Read [Algorithms and Flowcharts](http://www.academia.edu/7857144/ALGORITHMS_AND_FLOWCHARTS) and then familiarize yourself with [Pencil](http://pencil.evolus.vn/) ... start flowcharting complex portions of your code logic as part of your documentation       
-- [ ]  Project:  Clone [this Admin template](http://rubix410.sketchpixy.com/ltr/dashboard) using React, Angular, or Vue
+- [x]  Project:  Clone [this Admin template](http://rubix410.sketchpixy.com/ltr/dashboard) using React, Angular, or Vue
 - [ ]  Book: [Think Java - How to Think Like a Computer Scientist](http://greenteapress.com/wp/think-java/) 
-- [ ]  Book:  [Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf)
+- [x]  Book:  [Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf)
 - [ ]  Course: [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)    
 - [ ]  Course: [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
 - [ ]  Project: Complete all challenges from the [Code Jam Qualification Round 2015](https://code.google.com/codejam/contest/6224486/dashboard)
@@ -53,9 +53,9 @@ It has a pleathora of hints, tips and answers to help you ensure you get the mos
 - [ ]  Book: [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details)    
 - [ ]  Course: [Software Testing](https://www.udacity.com/course/software-testing--cs258)    
 - [ ]  Course: [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)  
-- [ ]  Project: Clone the Netflix interface using React, Angular, or Vue - pulling data from [the Movie DB API](https://www.themoviedb.org/documentation/api) or an API in a backend you create yourself.
+- [x]  Project: Clone the Netflix interface using React, Angular, or Vue - pulling data from [the Movie DB API](https://www.themoviedb.org/documentation/api) or an API in a backend you create yourself.
 - [ ]  Course: [Calculus Two: Sequences and Series](https://www.coursera.org/learn/advanced-calculus)    
-- [ ]  Project: Complete all Classic Puzzles - Medium on [CodinGame](https://www.codingame.com/) in JavaScript    
+- [x]  Project: Complete all Classic Puzzles - Medium on [CodinGame](https://www.codingame.com/) in JavaScript    
 - [ ]  Course: [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821) 
 - [ ]  Project: Complete all challenges from the [Code Jam Round 1A 2015](https://code.google.com/codejam/contest/4224486/dashboard) 
 - [ ]  Book: [JavaScript Spessore](https://leanpub.com/javascript-spessore/read)  - no longer available - use [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/index.html) instead.
