@@ -29,7 +29,7 @@ It has a pleathora of hints, tips and answers to help you ensure you get the mos
 * [x] Course: [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
 * [x] Course: [Software Construction: Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x)
 * [x] Course: [Software Construction: Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x)
-* [ ] [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
+* [x] [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
 * [x] Book: [DOM Enlightenment](http://domenlightenment.com/)
 * [x] Project: Simon Game from the frontend section of FCC
 * [x] Project: Complete all Classic Puzzles - Easy on [CodinGame](https://www.codingame.com/) in JavaScript
