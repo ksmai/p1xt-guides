@@ -37,7 +37,7 @@ It has a pleathora of hints, tips and answers to help you ensure you get the mos
 * or
 * [ ] Course - [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) on MongoDB University (or both, your choice)
 * [x] The FCC Backend Certification - all projects, ignore the tutorials and just read the official docs if you want.
-* [ ] Course: [Calculus One](https://www.coursera.org/learn/calculus1)
+* [x] Course: [Calculus One](https://www.coursera.org/learn/calculus1)
 * [x] Book: [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [ ] Project: Clone [this](https://blackrockdigital.github.io/startbootstrap-creative/) landing page
 * [ ] Course: [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
