@@ -7,12 +7,12 @@ There are references at the bottom of this list to answer some common questions 
 ## Tier 0 - Beginner "taste" of Game Programming - JavaScript based
 
 ### Get familiar with JavaScript (Feel free to skip this and come back and "unskip it" if at any point you feel daunted by what comes later)
-- [ ] Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)    
-- [ ] Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)  
-- [ ] Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)     
-- [ ] Book: [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)   
-- [ ] Book: [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)   
-- [ ] Book: [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)     
+- [x] Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)    
+- [x] Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)  
+- [x] Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)     
+- [x] Book: [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)   
+- [x] Book: [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)   
+- [x] Book: [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)     
 
 ### Get some experience doing graphics with JavaScript using processing.js
 - [ ] Course: [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)
@@ -51,14 +51,14 @@ There are references at the bottom of this list to answer some common questions 
 
 ## Tier 1 
 
-- [ ] Course: [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
-- [ ] Course: [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x) 
+- [x] Course: [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
+- [x] Course: [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x) 
 - [ ] Game: Hangman
 - [ ] Book: [Precalculus](http://www.stitz-zeager.com/szprecalculus07042013.pdf)
 - [ ] Book: [Fundamentals of C++ Programming](http://python.cs.southern.edu/cppbook/progcpp.pdf) and [labs](http://www.cs.southern.edu/halterman/Courses/Winter2014/124/Labs/index.html)
 - [ ] Game: Adventure (see [text adventure games](http://www.web-adventures.org/))
 - [ ] Exercises: [Code Monk](https://www.hackerearth.com/practice/), then [CodinGame](https://www.codingame.com/start) - begin working through these lessons, make them a daily habit as you continue on
-- [ ] Article: Read [Algorithms and Flowcharts](http://www.academia.edu/7857144/ALGORITHMS_AND_FLOWCHARTS) and then familiarize yourself with [Pencil](http://pencil.evolus.vn/) ... start flowcharting complex portions of your code logic as part of your documentation       
+- [x] Article: Read [Algorithms and Flowcharts](http://www.academia.edu/7857144/ALGORITHMS_AND_FLOWCHARTS) and then familiarize yourself with [Pencil](http://pencil.evolus.vn/) ... start flowcharting complex portions of your code logic as part of your documentation       
 - [ ] Course: [Video Game Design History](https://www.edx.org/course/video-game-design-history-ritx-game101x#!)
 - [ ] Book: [An Introduction to Design Patterns in C++ with Qt 4](http://ptgmedia.pearsoncmg.com/images/9780131879058/downloads/0131879057_Ezust_book.pdf)
 - [ ] Game: Zork (see [text adventure games](http://www.web-adventures.org/))
@@ -70,7 +70,7 @@ There are references at the bottom of this list to answer some common questions 
 - [ ] Article: [The Total Beginner’s Guide to Better 2D Game Art](http://www.gamedev.net/page/resources/_/creative/visual-arts/the-total-beginner%E2%80%99s-guide-to-better-2d-game-art-r2959)
 - [ ] Article: [2D Tutorial Series Introduction](http://www.aaroncox.net/tutorials/arcade/Introduction.html)
 - [ ] Game: Pong (Reference Tutorial [Paddle Battle](http://www.aaroncox.net/tutorials/arcade/PaddleBattle.html))
-- [ ] Course: [Calculus One](https://www.coursera.org/learn/calculus1)  
+- [x] Course: [Calculus One](https://www.coursera.org/learn/calculus1)  
 - [ ] Game: Duck Hunt
 - [ ] Course: [The Rise of Superheroes and Their Impact On Pop Culture](https://www.edx.org/course/rise-superheroes-impact-pop-culture-smithsonianx-popx1-5x#!)
 - [ ] Game: Sokoban, Snake, or Minesweeper - your choice
@@ -79,7 +79,7 @@ There are references at the bottom of this list to answer some common questions 
 - [ ] Course: [Product Design](https://www.udacity.com/course/product-design--ud509)
 - [ ] Book: [Game Programming Patterns](http://gameprogrammingpatterns.com/contents.html)
 - [ ] Game: Galaga
-- [ ] Course: [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
+- [x] Course: [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
 - [ ] Tutorial: [Introduction to OpenGL Graphics Programming](http://lazyfoo.net/tutorials/OpenGL/index.php)
 - [ ] Tutorial: [Beginning Game Programming v2.0](http://lazyfoo.net/tutorials/SDL/index.php)
 - [ ] Game: Frogger
@@ -117,7 +117,7 @@ There are references at the bottom of this list to answer some common questions 
 - [ ] Course: [Cryptography II](https://www.coursera.org/course/crypto2) 
 - [ ] Book: [Artificial Intelligence](http://artint.info/html/ArtInt.html)
 - [ ] Game: Zelda
-- [ ] Book: [Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf)
+- [x] Book: [Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf)
 - [ ] Course: [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)    
 - [ ] Course: [Artificial Intelligence](https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x#!) 
 - [ ] Game: Gauntlet
