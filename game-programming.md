@@ -28,8 +28,8 @@ There are references at the bottom of this list to answer some common questions 
 - [ ] Course: [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
 
 ### Get Familiar with Phaser and setup your bookmarks to Phaser Docs and helpful links for getting/creating assets
-- [ ] Tutorial: [Getting Started with Phaser](http://phaser.io/tutorials/getting-started)
-- [ ] Tutorial: [Making Your First Phaser Game](http://phaser.io/tutorials/making-your-first-phaser-game)
+- [x] Tutorial: [Getting Started with Phaser](http://phaser.io/tutorials/getting-started)
+- [x] Tutorial: [Making Your First Phaser Game](http://phaser.io/tutorials/making-your-first-phaser-game)
 - [ ] Bookmark: [Phaser docs](http://phaser.io/docs/)
 - [ ] Bookmark: [Phaser examples](http://phaser.io/examples)
 - [ ] Bookmark: [Tiled](http://www.mapeditor.org/)
