@@ -38,7 +38,7 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 * or
 * [x] Course - [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) on MongoDB University (or both, your choice)
 * [x] The FCC Backend Certification - all projects, ignore the tutorials and just read the official docs if you want.
-* [x] Course: [Calculus One](https://www.coursera.org/learn/calculus1)
+* [ ] Course: [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
 * [x] Book: [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [x] Project: Clone [this](https://blackrockdigital.github.io/startbootstrap-creative/) landing page
 * [x] Course: [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
@@ -60,7 +60,7 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 * [ ] Course: [Software Testing](https://www.udacity.com/course/software-testing--cs258)
 * [ ] Course: [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
 * [x] Project: Clone the Netflix interface using React, Angular, or Vue - pulling data from [the Movie DB API](https://www.themoviedb.org/documentation/api) or an API in a backend you create yourself.
-* [ ] Course: [Calculus Two: Sequences and Series](https://www.coursera.org/learn/advanced-calculus)
+* [ ] Course: [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
 * [x] Project: Complete all Classic Puzzles - Medium on [CodinGame](https://www.codingame.com/) in JavaScript
 * [ ] Course: [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)
 * [ ] Project: Complete all challenges from the [Code Jam Round 1A 2015](https://code.google.com/codejam/contest/4224486/dashboard)
@@ -97,7 +97,7 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 * [ ] Course: [Operating Systems and System Programming](http://theopenacademy.com/content/operating-systems-and-system-programming)
 * [ ] Project: Create a node module that will convert markdown to properly formatted html
 * [ ] Course: [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
-* [ ] Course: [Introduction to Natural Language Processing](https://www.coursera.org/learn/natural-language-processing)
+* [ ] Course: [Robotics Fundamentals](https://www.edx.org/course/robotics-fundamentals-pennx-robo1x)
 * [ ] Project: Clone [Learn Harmony](http://learnharmony.org/#/?_k=0okjs7)
 * [ ] Course: [Computer Networks](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
 * [ ] Course: [Parallel Computer Architecture and Programming](http://15418.courses.cs.cmu.edu/spring2016/home)
