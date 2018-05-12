@@ -15,8 +15,8 @@ There are references at the bottom of this list to answer some common questions 
 - [x] Book: [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)     
 
 ### Get some experience doing graphics with JavaScript using processing.js
-- [ ] Course: [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)
-- [ ] Project: Build all assignments in the Drawing and Animation course
+- [x] Course: [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)
+- [x] Project: Build all assignments in the Drawing and Animation course
 - [ ] Course: [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)
 - [ ] Project: Build all assignments in the Games & Visualizations course
 - [ ] Course: [Advanced JS: Natural Simulations](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations)
@@ -30,8 +30,8 @@ There are references at the bottom of this list to answer some common questions 
 ### Get Familiar with Phaser and setup your bookmarks to Phaser Docs and helpful links for getting/creating assets
 - [x] Tutorial: [Getting Started with Phaser](http://phaser.io/tutorials/getting-started)
 - [x] Tutorial: [Making Your First Phaser Game](http://phaser.io/tutorials/making-your-first-phaser-game)
-- [ ] Bookmark: [Phaser docs](http://phaser.io/docs/)
-- [ ] Bookmark: [Phaser examples](http://phaser.io/examples)
+- [x] Bookmark: [Phaser docs](http://phaser.io/docs/)
+- [x] Bookmark: [Phaser examples](http://phaser.io/examples)
 - [ ] Bookmark: [Tiled](http://www.mapeditor.org/)
 - [ ] Bookmark: [OpenGameArt](http://opengameart.org/art-search-advanced?keys=&field_art_type_tid%2525255B%2525255D=9&sort_by=count&sort_order=DESC)
 - [ ] Bookmark: [Gimp](https://www.gimp.org/)
@@ -39,8 +39,8 @@ There are references at the bottom of this list to answer some common questions 
 - [ ] Article: [The Total Beginner’s Guide to Better 2D Game Art](http://www.gamedev.net/page/resources/_/creative/visual-arts/the-total-beginner%E2%80%99s-guide-to-better-2d-game-art-r2959)
 
 ### Build these - in order - the complexity builds with each one
-- [ ] Game: Concentration (Reference [Wikipedia](https://en.wikipedia.org/wiki/Concentration_(game)))
-- [ ] Game: Tic-Tac-Toe (unbeatable AI opponent) [Wikipedia](http://en.wikipedia.org/wiki/Tic-tac-toe)
+- [x] Game: Concentration (Reference [Wikipedia](https://en.wikipedia.org/wiki/Concentration_(game)))
+- [x] Game: Tic-Tac-Toe (unbeatable AI opponent) [Wikipedia](http://en.wikipedia.org/wiki/Tic-tac-toe)
 - [ ] Game: Minesweeper [Wikipedia](http://en.wikipedia.org/wiki/Minesweeper_(computer_game))
 - [ ] Game: Sokoban [Wikipedia](https://en.wikipedia.org/wiki/Sokoban)
 - [ ] Game: Snake [Wikipedia](http://en.wikipedia.org/wiki/Snake_(video_game))
@@ -85,7 +85,7 @@ There are references at the bottom of this list to answer some common questions 
 - [ ] Game: Frogger
 - [ ] Course: [Software Development Process](https://www.udacity.com/course/software-development-process--ud805)
 - [ ] Book: [Applied Discrete Structures](http://faculty.uml.edu/klevasseur/ads-latex/ads.pdf) and [assignments](http://www.cs.southern.edu/halterman/Courses/Fall2015/280/Assignments/index.html)
-- [ ] Game: Space Invaders
+- [x] Game: Space Invaders
 - [ ] Course: [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)    
 - [ ] Course: [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
 - [ ] Game: Tetris (Reference tutorial [Falling Blocks (Tetris)](http://www.aaroncox.net/tutorials/arcade/FallingBlocks.html))
