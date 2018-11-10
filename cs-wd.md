@@ -66,7 +66,7 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 * [ ] Project: Complete all challenges from the [Code Jam Round 1A 2015](https://code.google.com/codejam/contest/4224486/dashboard)
 * [ ] Book: [JavaScript Spessore](https://leanpub.com/javascript-spessore/read) - no longer available - use [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/index.html) instead.
 * [ ] Project: Clone [this](https://blackrockdigital.github.io/startbootstrap-clean-blog/) blog template - note that there are multiple pages
-* [ ] Course: [Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
+* [x] Course: [Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
 * [ ] Course: [Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x)
 * [ ] Project: Complete all ES6 Katas [here](http://es6katas.org/)
 * [ ] Course: [Introduction to Cloud Infrastructure Technologies](https://www.edx.org/course/introduction-cloud-infrastructure-linuxfoundationx-lfs151-x)
