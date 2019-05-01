@@ -46,8 +46,8 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 * [x] Project: Clone [this Admin template](http://rubix410.sketchpixy.com/ltr/dashboard) using React, Angular, or Vue
 * [ ] Book: [Think Java - How to Think Like a Computer Scientist](http://greenteapress.com/wp/think-java/)
 * [x] Book: [Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf)
-* [ ] Course: [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
-* [ ] Course: [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
+* [x] Course: [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
+* [x] Course: [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
 * [ ] Project: Complete all challenges from the [Code Jam Qualification Round 2015](https://code.google.com/codejam/contest/6224486/dashboard)
 * [ ] Project: Clone the front page of [this](https://urbanarmorgear.com/) website modifying it to highlight a different product or industry. Make special note of the secondary navigation bar at the top. Implementing that is the highlight of this project.
 * [ ] Course: [UX Design for Mobile Developers](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849)
@@ -56,9 +56,9 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 
 ## Tier 3 - add more rigor
 
-* [ ] Book: [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details)
-* [ ] Course: [Software Testing](https://www.udacity.com/course/software-testing--cs258)
-* [ ] Course: [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
+* [x] Book: [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details)
+* [x] Course: [Software Testing](https://www.udacity.com/course/software-testing--cs258)
+* [x] Course: [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
 * [x] Project: Clone the Netflix interface using React, Angular, or Vue - pulling data from [the Movie DB API](https://www.themoviedb.org/documentation/api) or an API in a backend you create yourself.
 * [ ] Course: [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
 * [x] Project: Complete all Classic Puzzles - Medium on [CodinGame](https://www.codingame.com/) in JavaScript
